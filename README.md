@@ -9,3 +9,6 @@ pip3 install PyQt5 PyQt5-WebEngine
 # Terminalden dosyayı indirdiğin dizine gidip şu komutu ver:
 
 python3 map_widget.py
+
+madeinocelebi
+www.pardusyolu.com
